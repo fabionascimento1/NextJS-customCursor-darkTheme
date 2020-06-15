@@ -1,10 +1,8 @@
+<p align="center"><img src="https://raw.githubusercontent.com/fabionascimento1/NextJS-customCursor-darkTheme/master/customcursor.gif" /></p>
 
-
-## RESOURCES USED
-
-# NextJS
-# Context API - Hooks
-# Styled Components
+## NextJS
+## Context API - Hooks
+## Styled Components
 
 ## Getting Started
 
